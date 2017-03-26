@@ -8,3 +8,13 @@
 **Link(s) to work**
 1. [tic tac toe](http://codepen.io/SpazCool/full/EWpaJG/)
 2. [blog post](http://www.spazcool.com/blog1/)
+
+### Day 2: March 26, Sunday
+
+**Today's Progress**: I've spent the last couple of hours trying to style my nearly complete Pomodoro Timer. So far I've got the digits atop the screen atop the time setting slider. I've been hitting a wall here with relatively sizing the slider's div, as the stock JS hard codes its size in px. Also, I gave the user more flexibility in setting the time and uncovered a bit of a bug; if no time is set, the read out bugs out switching from 0 to -1. This can be escaped if the user pauses the timer and resets the timer.  
+
+**Thoughts**: Bootstrap! While I definietly made some progress tonight, that set size for the slider remains a thorn in my side. I don't think it's a lack of understanding on my part just, the need for some juggling of ideas.
+
+**Link(s) to work**
+1. [pomodoro timer](http://codepen.io/SpazCool/full/mRKMQa/)
+
