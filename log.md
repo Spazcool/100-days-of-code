@@ -18,3 +18,13 @@
 **Link(s) to work**
 1. [pomodoro timer](http://codepen.io/SpazCool/full/mRKMQa/)
 
+
+### Day 3: March 27, Monday
+
+**Today's Progress**: Spent about 2 hours on just trying to get the the slider to resize, even sent an email to the developer asking if it can be sized with relative units. After banging my against that, I moved on to ripping out the bootstrap and relative units from my code; everything is hard-coded now and nearly in place...for this screen.
+
+**Thoughts**: It's fucking annoying. That one piece not working has thrown a wrench into the whole of the works. I don't know if it's possible but, perhaps I can nest the divs using fixed values into a relative container; it sounds like a good idea but, I foresee problems.
+
+**Link(s) to work**
+1. [pomodoro timer](http://codepen.io/SpazCool/full/mRKMQa/)
+
