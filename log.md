@@ -28,3 +28,12 @@
 **Link(s) to work**
 1. [pomodoro timer](http://codepen.io/SpazCool/full/mRKMQa/)
 
+### Day 4: March 28, Tuesday
+
+**Today's Progress**: Ripped out the previous slider due to an inability on its part to resize responsively and an inability on my part to get it resized responsively. Moved the buttons a bit. Changed some of the colors. Added in a new simpler slider.
+
+**Thoughts**: After yet another hour of fiddling with the previous pretty round slider, I just opted to tear it out and start over with the "stock" jQuery slider. It won't look quite as super awesome but, I need to cut my losses at this point; it's been ~4 hours tweaking pixels to get something that looked kinda ugly on any screen other than the one I'm working on. Simplify and get something that works out before the holiday is through.
+
+**Link(s) to work**
+1. [pomodoro timer](http://codepen.io/SpazCool/full/mRKMQa/)
+
