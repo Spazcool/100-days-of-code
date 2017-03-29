@@ -37,3 +37,12 @@
 **Link(s) to work**
 1. [pomodoro timer](http://codepen.io/SpazCool/full/mRKMQa/)
 
+### Day 5: March 29, Wednesday
+
+**Today's Progress**: Finished! Styling, links, the new slider, all of it is done--barring someone tells finds a bug. Even got some of the responsive design back in there but, not completely.
+
+**Thoughts**: Very much ready to be done with this one. I've spent at least 10 hours on it over the last three days and that was mostly fiddling CSS elements that would fall to pieces if the screen or browser were at all different. I'm happy with the look and function of this finished product and may even start using it regurlarly after posting it to my site.
+
+**Link(s) to work**
+1. [pomodoro timer](http://codepen.io/SpazCool/full/mRKMQa/)
+2. [pomodoro timer]()
