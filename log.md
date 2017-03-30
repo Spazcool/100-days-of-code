@@ -45,4 +45,13 @@
 
 **Link(s) to work**
 1. [pomodoro timer](http://codepen.io/SpazCool/full/mRKMQa/)
-2. [pomodoro timer]()
+2. [pomodoro timer, on my site](http://www.spazcool.com/pomo/)
+
+### Day 6: March 30, Thursday
+
+**Today's Progress**: Tweaked some logos using Pinta. Edited a bit of my portfolio site, adding said logos and smoothing out a couple of the bugs in my responsive design. 
+
+**Thoughts**: Slower work today. Should have been more productive and worked on some algorithm challenges but design is important too.
+
+**Link(s) to work**
+1. [Portfolio site](http://www.spazcool.com/)
