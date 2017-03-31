@@ -55,3 +55,12 @@
 
 **Link(s) to work**
 1. [Portfolio site](http://www.spazcool.com/)
+
+### Day 7: March 31, Friday
+
+**Today's Progress**: Slight adjustements made to the Exact Change Algorithm Challenge.
+
+**Thoughts**: The baby was less than happy today, I didn't have a single whole-hour to work so, while I was online "working" for three hours or more, little progress was made. I should have called it a lost day and just enjoyed some TV or something. I'll be at the Bunker tomorrow so, progress will be made. As for the challenge itself, I was able to just find where and what one of the bugs were; float vs integer modulus division. I got it squared away in one spot but, I suspect it'll be a problem elsewhere. Beaten today.
+
+**Link(s) to work**
+1. [Exact Change CodePen](https://codepen.io/SpazCool/pen/xqQLwO)
