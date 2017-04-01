@@ -64,3 +64,13 @@
 
 **Link(s) to work**
 1. [Exact Change CodePen](https://codepen.io/SpazCool/pen/xqQLwO)
+
+
+### Day 8: April 1, Saturday
+
+**Today's Progress**: Basically finished the fCC tic-tac-toe challenge. 
+
+**Thoughts**: It is a rudimentary AI, just seeking out what cells are available and pushing its character in there but, it is running as a game. Now, I'm on the bug hunt, tweaking the bits that aren't running as they should be and after that, perhaps improving upon the AI to make it seek out the win.
+
+**Link(s) to work**
+1. [TicTacToe CodePen](https://codepen.io/SpazCool/full/EWpaJG/)
