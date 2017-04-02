@@ -74,3 +74,13 @@
 
 **Link(s) to work**
 1. [TicTacToe CodePen](https://codepen.io/SpazCool/full/EWpaJG/)
+
+
+### Day 9: April 2, Sunday
+
+**Today's Progress**: Killed the last couple of bugs in the fCC tic-tac-toe challenge. It is fully operational! Tweaked the styling, cleaning the UI up. 
+
+**Thoughts**: I still haven't touched the AI. The game is functional but, the computer always loses since it is only choosing cells at random. Part of me wants to make it smarter, more gamey but, another part of me sees the finish line for the fCC Front End cert. Do I really want to spend more time on this than I need or would the time spent on this be a benefit for me?
+
+**Link(s) to work**
+1. [TicTacToe CodePen](https://codepen.io/SpazCool/full/EWpaJG/)
