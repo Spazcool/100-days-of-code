@@ -84,3 +84,22 @@
 
 **Link(s) to work**
 1. [TicTacToe CodePen](https://codepen.io/SpazCool/full/EWpaJG/)
+
+### Day 10: April 3, Monday
+
+**Today's Progress**: Beefed up the AI a bit, giving it prioritzed cells to choose from; center first, then the corners, then the rest. 
+
+**Thoughts**: Definitely helps to work on the AI, all of the juggling of if/else statements and comapring this and that make for good practice. 
+
+**Link(s) to work**
+1. [TicTacToe CodePen](https://codepen.io/SpazCool/full/EWpaJG/)
+
+### Day 11: April 4, Tuesday
+
+**Today's Progress**: Continued with the AI, getting rid of the bugs created in yesterday's swashbuckling and cleaning up and shortening a lot of my code; some of this was bikeshedding but, there was some inefficiencies with my code as well. Also, tweaked my pomodoro timer by having it append the title of the "<head>" 
+
+**Thoughts**: I have stubbornly chosen to puzzle out this game for myself, I'm certain that there are algorithmic solutions to the game that could influence and improve my AI but, I want the practice of thinking through this mess. With that said, the next bit I have gotten stuck on; having the AI seek out a partial winning sequence and completing it for its own benefit or to block the player from a win. Fingers crossed that I can finish this by the weekend.
+
+**Link(s) to work**
+1. [TicTacToe CodePen](https://codepen.io/SpazCool/full/EWpaJG/)
+2. [Pomodoro](http://www.spazcool.com/pomo/)
