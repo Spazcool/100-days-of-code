@@ -103,3 +103,21 @@
 **Link(s) to work**
 1. [TicTacToe CodePen](https://codepen.io/SpazCool/full/EWpaJG/)
 2. [Pomodoro](http://www.spazcool.com/pomo/)
+
+### Day 12: April 5, Wednesday
+
+**Today's Progress**: Work and the baby interferred quite a bit today, I only managed to watch a couple of JS vids on youtube and had the sudden terrifying realization that my Calculator project had a bug in it. I found it and tried to fix it for a bit but, again, not much was done.
+
+**Thoughts**: Those videos really showed how little I know of JS at the moment. My calculator's JS has 250+ lines of code. Some of the examples I came across got it done in under 50. Methods like .eval and .inludes saved those creators so much time and hassle. It's a little bit sickening to see the ease with which such an app could be made when using the right tools. 
+
+**Link(s) to work**
+1. [Calculator](http://www.spazcool.com/calc/)
+
+### Day 13: April 6, Thursday
+
+**Today's Progress**: Junked my previous attempt with the calculator. Copied and pasted and juggled a few other solutions and in under an hour, I already got something running at nearly 100%. 
+
+**Thoughts**: It almost feels like cheating to be using these methods. I don't know if it's a pleasant feeling or not. Suppossing that the last little bug, having numbers with more than one ".", can be dealt with quickly then I'm hoping to add a little styling tomorrow. 
+
+**Link(s) to work**
+1. [Calculator](https://codepen.io/SpazCool/pen/rjYYrp?editors=0010)
