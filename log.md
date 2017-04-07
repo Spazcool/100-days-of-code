@@ -121,3 +121,13 @@
 
 **Link(s) to work**
 1. [Calculator](https://codepen.io/SpazCool/pen/rjYYrp?editors=0010)
+
+
+### Day 14: April 7, Friday
+
+**Today's Progress**: A bit of easy JS, revamping my solution to fCC's profile lookup algorithm challenge, along with some light styling for the accompanying blog post entry.
+
+**Thoughts**: It was nice to go back and see this problem with new insights. I cut out at least ten lines of code and used a couple of methods that were beyond me at the time. Still, it is an easy challenge but, it felt good nonetheless.
+
+**Link(s) to work**
+1. [Profile Lookup Challenge Blog Post](http://www.spazcool.com/blog2/)
