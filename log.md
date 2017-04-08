@@ -131,3 +131,12 @@
 
 **Link(s) to work**
 1. [Profile Lookup Challenge Blog Post](http://www.spazcool.com/blog2/)
+
+### Day 15: April 8, Saturday
+
+**Today's Progress**: A boatload of CSS today, a bit of JS as well but not so much to really get into it. Completely redesigned the look and interaction of the calculator for the better.
+
+**Thoughts**: It looks good and it works well. I've only got a couple more smallish bugs to deal with and then it is golden; one related to the over-sized output to the "screen" and the other having to do with clearing the screen if a new operation is being performed following the termination of a previous one. It's all doable.
+
+**Link(s) to work**
+1. [Calculator](https://codepen.io/SpazCool/pen/rjYYrp?editors=0010)
