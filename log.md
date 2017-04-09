@@ -140,3 +140,14 @@
 
 **Link(s) to work**
 1. [Calculator](https://codepen.io/SpazCool/pen/rjYYrp?editors=0010)
+
+### Day 16: April 9, Sunday
+
+**Today's Progress**: Finito! Added a bit of JS to get the final touches in and bugs out and now it is a finished product. Updated it on both codepen and on github. A bit of CSS as well but, really just tweaks. Also, posted my Tic Tac Toe game on github; it's not where I want the finished product to be but, it's functional and offers some challenge.
+
+**Thoughts**: Where the previous version took many dozens of hours, of little progress and great frustrations, this version took me, at most, 10 hours. Yay for using pre-existing methods and libraries! This allowed me greater freedom and ease when it came to the CSS; I wasn't too mentally taxed/exhausted by the JS to not bother with it this time 'round.  
+
+**Link(s) to work**
+1. [Calculator on CodePen](https://codepen.io/SpazCool/full/rjYYrp/)
+2. [Calculator on my site](http://www.spazcool.com/calc/)
+3. [Old and Broken Calculator on CodePen][https://codepen.io/SpazCool/full/LWwYoe/)
