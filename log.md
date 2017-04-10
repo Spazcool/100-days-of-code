@@ -150,4 +150,13 @@
 **Link(s) to work**
 1. [Calculator on CodePen](https://codepen.io/SpazCool/full/rjYYrp/)
 2. [Calculator on my site](http://www.spazcool.com/calc/)
-3. [Old and Broken Calculator on CodePen][https://codepen.io/SpazCool/full/LWwYoe/)
+3. [Old and Broken Calculator on CodePen](https://codepen.io/SpazCool/full/LWwYoe/)
+
+### Day 17: April 10, Monday
+
+**Today's Progress**: Kinda sorta started the final fCC front end project, the Simon game. I write "kinda" because I haven't touched the JS at all and even HTML and CSS is a mess. At the moment, I've managed to get the screen to be filled with a hexagonal grid, though with some odd padding/margin bugs that need sorting.
+
+**Thoughts**: My idea for my simon game design is to have a hexagonal grid where only a select fet of said hexagons glow in a rough game of simon layout, essentially using the hexagons as really big pixels. I also have other ideas related to animation of these but, first I need to get the static grid working and set to at least a computer screen's dimensions. I know that this may be needlessly complicating what is to be an already complex project but, I tried and failed using hexagons some time ago--with the wikipedia viewer--I want my hexagons even if they don't me. 
+
+**Link(s) to work**
+1. [HEX Grid on CodePen](https://codepen.io/SpazCool/pen/qreXeL?editors=1100)
