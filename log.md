@@ -160,3 +160,12 @@
 
 **Link(s) to work**
 1. [HEX Grid on CodePen](https://codepen.io/SpazCool/pen/qreXeL?editors=1100)
+
+### Day 18: April 11, Tuesday
+
+**Today's Progress**: Finished a rough hexagonal grid in CSS/HTML, it will need some TLC down the road for responsiveness but, it's up and running. Also got some simple animations running with Jquery, fading in an out based on id's.
+
+**Thoughts**: The grid took a bit of time to make but, now I get to play and see what kind of animations I can come up with. Hopeful.
+
+**Link(s) to work**
+1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
