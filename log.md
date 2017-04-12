@@ -169,3 +169,12 @@
 
 **Link(s) to work**
 1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
+
+### Day 19: April 12, Wednesday
+
+**Today's Progress**: I had about an hour total to continue to lay the groundwork for what may be a really cool visual style to my Simon game project. Basically, I played around with how I might access the hexagon id's in a systematic way with jquery to produce a nifty animation.
+
+**Thoughts**: My usual lunch break coding session was interupted as was my evening so, not much was achieved today. I will continue to pursue this visual asthetic for now.
+
+**Link(s) to work**
+1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
