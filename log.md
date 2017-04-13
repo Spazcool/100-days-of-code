@@ -178,3 +178,12 @@
 
 **Link(s) to work**
 1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
+
+### Day 20: April 13, Thursday
+
+**Today's Progress**: A much improved layout now, things are even and very roughly colored. Still mostly CSS but, JS will soon come.
+
+**Thoughts**: It's looking much better, more responsive if not great on a phone it still works. Liking it, gotta think about how I'm gonna animate it.
+
+**Link(s) to work**
+1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
