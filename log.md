@@ -196,3 +196,13 @@
 
 **Link(s) to work**
 1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
+
+### Day 22: April 15, Saturdday
+
+**Today's Progress**: Little real progress was made, despite spending 2+ hours on it today. Mostly just playing around with JQuery methods for animation. Same as yesterday, I know but, I'm just exploring what and how.
+
+**Thoughts**: I've been working but, without a real goal in mind. With the trip less than a week away, I don't really want to start the heavy lifting on this project just yet. More play to follow.
+
+**Link(s) to work**
+1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
+
