@@ -197,7 +197,7 @@
 **Link(s) to work**
 1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
 
-### Day 22: April 15, Saturdday
+### Day 22: April 15, Saturday
 
 **Today's Progress**: Little real progress was made, despite spending 2+ hours on it today. Mostly just playing around with JQuery methods for animation. Same as yesterday, I know but, I'm just exploring what and how.
 
@@ -206,3 +206,11 @@
 **Link(s) to work**
 1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
 
+### Day 23: April 16, Sunday
+
+**Today's Progress**: Tightened up some of the creative creep that has come about. Explored the phaser JS library as a way to make HTML games but, decided against it as, I've already invested a fair bit of time on the layout as it stands.
+
+**Thoughts**: I'm still just treading water here, getting the layout and feel working before the heavy lifting with the game logic itself. I'm hoping to hit that in a week, after the trip.
+
+**Link(s) to work**
+1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
