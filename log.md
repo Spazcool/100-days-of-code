@@ -214,3 +214,12 @@
 
 **Link(s) to work**
 1. [HEX Grid on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
+
+### Day 24: April 17, Monday
+
+**Today's Progress**: Started some of the JS logic today, thanks to an unscheduled long lunch. Got it randomly selecting one of the buttons, randomly selecting how many times to make that button glow, saving that event and also saving the similar event when the user clicks on a button and lastly comparing those two saved events in length and content.  
+
+**Thoughts**: I'm a bit surprised at how much code is needed to just get the bare game up and running. This is not a game yet and I've nearly 100 lines jotted down, granted a lot of those are going toward graphical flourishes. It felt good to move away from the pixel placement, though.
+
+**Link(s) to work**
+1. [fCC Simon on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
