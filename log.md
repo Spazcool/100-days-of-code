@@ -223,3 +223,12 @@
 
 **Link(s) to work**
 1. [fCC Simon on CodePen](https://codepen.io/SpazCool/full/qreXeL/)
+
+### Day 25: April 18, Tuesday
+
+**Today's Progress**: No constructive work done. A super busy work schedule and the need to get ready for a flight back home killed my free time today. Watched some videos on fCC. 
+
+**Thoughts**: Annoying to have had to put my project aside for the day, especially when I had just started it in earnest but, such is life; it may well be the case for the next week abroad.
+
+**Link(s) to work**
+1. [fCC JS video](https://www.freecodecamp.com/videos/javascript-lingo-value-types)
