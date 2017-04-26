@@ -232,3 +232,16 @@
 
 **Link(s) to work**
 1. [fCC JS video](https://www.freecodecamp.com/videos/javascript-lingo-value-types)
+
+
+**!!!! STARTING OVER !!!!**
+
+
+### Day 01: April 26, Wednesday
+
+**Today's Progress**: Worked on a hackerRank sorting problem where one has to return the number of elements that the most frequent number has out of a given array; [2,5,2,4,6] should return 2 because there are two elements of the array that are equal to 2 and that is the highest incident.
+
+**Thoughts**: Well, a week back home in the States organizing and celebrating my brothers wedding did me no favors toward this challenge. I didn't even have time to watch videos, it was a good time with those I love but, it kind of screwed me over with regards to this challenge. So, starting over.
+
+**Link(s) to work**
+1. [hR sorting problem](https://codepen.io/SpazCool/pen/zwoJGB?editors=0011)
