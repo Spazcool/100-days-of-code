@@ -245,3 +245,14 @@
 
 **Link(s) to work**
 1. [hR sorting problem](https://codepen.io/SpazCool/pen/zwoJGB?editors=0011)
+
+### Day 02: April 27, Thursday
+
+**Today's Progress**: Worked on a couple more hackerRank algorithm problems. The first being a hole counter where the input was a random number and the output had to be the number of holes in all of the digits (i.e. "6" has one hole, "7" has zero holes, "8" has two, etc). The second problem asked for a zipper merge of two strings where str1 = "abc" and str2= "efg" the output should be "aebfcg"; and it needs to handle strings of differing lengths from each other. I also spent my lunchbreak going through codecademy's Sass course.
+
+**Thoughts**: None of the above was terribly difficult, sure there were a couple of snags here and there but, I made short work of it. I do wish I hadn't fallen asleep so early--thank you jetlag--and had been able to start back up on my Simon game.
+
+**Link(s) to work**
+1. [hR holeCounter problem](https://codepen.io/SpazCool/pen/KmaWYV)
+2. [hR mergeStr problem](https://codepen.io/SpazCool/pen/YVNVRK)
+3. [CC Sass](https://www.codecademy.com/learn/learn-sass)
