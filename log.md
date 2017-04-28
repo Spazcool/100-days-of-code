@@ -256,3 +256,12 @@
 1. [hR holeCounter problem](https://codepen.io/SpazCool/pen/KmaWYV)
 2. [hR mergeStr problem](https://codepen.io/SpazCool/pen/YVNVRK)
 3. [CC Sass](https://www.codecademy.com/learn/learn-sass)
+
+### Day 03: April 28, Frisday
+
+**Today's Progress**: Spent a couple of hours getting lost reaquainting myself with my Simon game before deciding to fork it and then scrub any unecesary flourish from the fork; all to make it easier to read/work with. 
+
+**Thoughts**: Having an issue with recursion and an array method applying itself to both the copy and the original. Kind of annoying.
+
+**Link(s) to work**
+1. [fCC Simon Game](https://codepen.io/SpazCool/pen/XRMmMo)
