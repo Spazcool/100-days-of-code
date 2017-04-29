@@ -265,3 +265,12 @@
 
 **Link(s) to work**
 1. [fCC Simon Game](https://codepen.io/SpazCool/pen/XRMmMo)
+
+### Day 04: April 29, Saturday
+
+**Today's Progress**: Six mostly productive hours down in the bunker allowed me to go from a series of buttons that flash after the user hits start to a full, if ugly, game of Simon. Functionally, it is finished! All that remains is my porting the game into the GUI I've already set up and then moving all of that over a real editor to tweak before posting it on my portfolio.
+
+**Thoughts**: Fucking close. Baby, schedule and life permitting, I'll have this done by next weekend. Then, the freeCodeCamp frontend certification is mine.
+
+**Link(s) to work**
+1. [fCC Simon Game](https://codepen.io/SpazCool/pen/XRMmMo)
