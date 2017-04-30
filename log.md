@@ -274,3 +274,12 @@
 
 **Link(s) to work**
 1. [fCC Simon Game](https://codepen.io/SpazCool/pen/XRMmMo)
+
+### Day 05: April 30, Sunday
+
+**Today's Progress**: No where near as productive today. Just some Sass tuts on codecademy.
+
+**Thoughts**: Super busy today, kept me from the computer till late at night and I was falling asleep while on it. #adulting
+
+**Link(s) to work**
+1. [Sass tut](https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/arithmetic-and-color?action=lesson_resume)
