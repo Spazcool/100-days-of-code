@@ -283,3 +283,12 @@
 
 **Link(s) to work**
 1. [Sass tut](https://www.codecademy.com/courses/learn-sass/lessons/functions-and-operations/exercises/arithmetic-and-color?action=lesson_resume)
+
+### Day 06: May 01, Monday
+
+**Today's Progress**: Got a solid hour and a half on hackerRank tonight. Simple algorithm challenges, like finding the most frequent element in an array, zippering together two strings and counting the "holes" in a grouping of numbers. All put together and I passed the TechHire coding challenge. Fuck yeah.
+
+**Thoughts**: I've been playing around with hackerRank for a littel while. I want to go on the record here as being firmly against their witholding of both the inputs and outputs of theri tests. It's fucking annoying and is comepletely divorced from reality.
+
+**Link(s) to work**
+1. [Sorry no real links on that one.](https://techhire.careers/candidates/dan-wright/signup/profile)
