@@ -292,3 +292,12 @@
 
 **Link(s) to work**
 1. [Sorry no real links on that one.](https://techhire.careers/candidates/dan-wright/signup/profile)
+
+### Day 07: May 02, Tuesday
+
+**Today's Progress**: Spent about 90 minutes plugging in and making the code play nice from my two versions of fCC's final front-end project, the Simon game. One version looks good, the other works. Now to play doctor. Not functioning yet.
+
+**Thoughts**: I've been playing around with hackerRank for a littel while. I want to go on the record here as being firmly against their witholding of both the inputs and outputs of theri tests. It's fucking annoying and is comepletely divorced from reality.
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
