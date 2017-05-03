@@ -301,3 +301,12 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+### Day 08: May 03, Wednesday
+
+**Today's Progress**: Got a solid 2 hours in, Simon is functioning but, some of the pretty is missing. Specifically, I plugged in the opening animation, played with the context/menu buttons and cut out some busted code.
+
+**Thoughts**: I was definitely tired, less in a mood to be creative and more in one to break things or, at the very least, plug in and forget. Still, I put in the time.
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
