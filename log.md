@@ -310,3 +310,12 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+### Day 09: May 04, Thursday
+
+**Today's Progress**: Very little "real" work on code got done. I tweaked a bit of the animation for my simon game. However, I did spend a couple of hours prepping for and another hour taking part in a mock interview with TechHire.
+
+**Thoughts**: So much work to do. It's good to get feedback finally, critiques regarding my style or communication in code are much needed. Still stings a bit, hearing the negatives after a year and a half of beating myself into some kind of developer wannabe. I want it, though. The changes will be made and I'll push forward. 
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
