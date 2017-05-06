@@ -319,3 +319,23 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+### Day 10: May 05, Friday
+
+**Today's Progress**: Started the spring-cleaning on my repos here. Adding READMEs, good comments, cleaner code and removing the dead or unused bits. 
+
+**Thoughts**: This housekeeping stuff is less fun but, I need to make it presentable for hire.
+
+**Link(s) to work**
+1. [My git profile](https://github.com/Spazcool)
+
+
+### Day 11: May 06, Saturday
+
+**Today's Progress**: Still in clean-up mode. A lot of progress has been made, in fact I'm nearing the end of this BS and will soon get to fiddle with my portfolio page more aggressively. 
+
+**Thoughts**: Getting there. 
+
+**Link(s) to work**
+1. [My git profile](https://github.com/Spazcool) - 32 commits today
+
