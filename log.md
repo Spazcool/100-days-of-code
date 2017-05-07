@@ -339,3 +339,11 @@
 **Link(s) to work**
 1. [My git profile](https://github.com/Spazcool) - 32 commits today
 
+### Day 12: May 07, Sunday
+
+**Today's Progress**: Finished cleaning my repos! Everything has a readme, a lot of the dead code and innane comments are gone and it looks a lot cleaner. Also, started tweaking my portfolio page again but, I've been running into issues with the GIT servers taking hours to update my changed files. 
+
+**Thoughts**: It is still not perfect but, it does feel a bit more presentable.
+
+**Link(s) to work**
+1. [My git profile](https://github.com/Spazcool) - 32 commits again!
