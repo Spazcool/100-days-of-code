@@ -347,3 +347,14 @@
 
 **Link(s) to work**
 1. [My git profile](https://github.com/Spazcool) - 32 commits again!
+
+### Day 13: May 08, Monday
+
+**Today's Progress**: A bit of everything today. A bit more of a Sass tutorial during lunch, tweaked my portfolio a bit after work and started back up playing with the animations for my Simon game before bed. Productive.   
+
+**Thoughts**: Back to coding.
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
+2. [portfolio page](http://www.spazcool.com/)
+3. [Sass tuts](https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/sass-structure?action=lesson_resume)
