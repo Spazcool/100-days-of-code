@@ -358,3 +358,13 @@
 1. [Simon on git](https://github.com/Spazcool/simonGame)
 2. [portfolio page](http://www.spazcool.com/)
 3. [Sass tuts](https://www.codecademy.com/courses/learn-sass/lessons/sustainable-scss/exercises/sass-structure?action=lesson_resume)
+
+### Day 14: May 09, Tuesday
+
+**Today's Progress**: During lunch at work, whiled my way through the start of codecademy's React course. It seems an interesting library though, I'm having trouble thinking of any practical uses for something I'd make by myself; still, it might be fun to play with in the future. This evening I muddled around with my Simon game. The core game is finished but, there's alot of the GUI that is lacking. Specifically tonight, I fixed a bug with the buttonFlourish and then spent the rest of my hour in the HTML and CSS playing around with different headers.   
+
+**Thoughts**: Not sure, I'm tired and I've lost some of the momentum for this project. I just want it done.
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
+2. [React tuts](https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-variable-attributes?action=lesson_resume)
