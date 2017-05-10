@@ -368,3 +368,12 @@
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
 2. [React tuts](https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-variable-attributes?action=lesson_resume)
+
+### Day 15: May 10, Wednesday
+
+**Today's Progress**: Added a header div to Simon and styled it slightly.
+
+**Thoughts**: Oh what a pain in the ass. I couldn't nest the header inside of the container for the game, otherwise it would disturb all of the hex pieces, despite its position being absolute. And when set outside of the container I couldn't get the height of the thing to match the height of the container. An hour wasted languishing in HTML and CSS only to find a jQuery solution that took a single line of code and two minutes of my time. Fuck!
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
