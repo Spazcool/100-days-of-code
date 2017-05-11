@@ -377,3 +377,13 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+### Day 16: May 11, Thursday
+
+**Today's Progress**: Far more productive tonight, adding a pseudo-border to the whole of the page, a sliding menu screen and a title.
+
+**Thoughts**: Plenty got done for an hour's work, had I not gone to the gym and had not had to cook and clean and all of the other junk after work, maybe I could have spent more than an hour. However, other stuff is good too. As for this game, it needs a lot of styling to look polished.
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
+2. [React tuts](https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-variable-attributes?action=lesson_resume)
