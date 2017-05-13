@@ -387,3 +387,21 @@
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
 2. [React tuts](https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-variable-attributes?action=lesson_resume)
+
+### Day 17: May 12, Friday
+
+**Today's Progress**: Due to it both being Friday and a fussy baby, no work was done at home. I did squeeze in a little over an hour--nonconsecutive--of React tutorials at work, though.
+
+**Thoughts**: meh
+
+**Link(s) to work**
+1. [React tuts](https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-variable-attributes?action=lesson_resume)
+
+### Day 18: May 13, Saturday
+
+**Today's Progress**: Got a solid hour of GUI work in. Tweaked some of the CSS values for the header, footer and popup windows. Also added some of the logic required for all of those things to happen.
+
+**Thoughts**: Kinda wish I had had time to head to the bunker today, I think it might be finished had I done so. 
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
