@@ -405,3 +405,12 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+### Day 19: May 14, Sunday
+
+**Today's Progress**: Tweaking the CSS some more today, colors, fonts, borders, that sort of stuff.
+
+**Thoughts**: Limping to the end. 
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
