@@ -414,3 +414,13 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+
+### Day 20: May 15, Monday
+
+**Today's Progress**: Added some small tweaks to the CSS and another informational div to the HTML. Most of my time was spent cleaning up my JS, creating new functions to handle similar tasks, cutting out the fat.
+
+**Thoughts**: Still got a couple of bugs before I'm ready to submit it; the noise not playing, the counter not pausing on casual and the full hexagon not being clickable.
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
