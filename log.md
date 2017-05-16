@@ -424,3 +424,12 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+### Day 21: May 16, Tuesday
+
+**Today's Progress**: Mostly a bug hunt today. Fixed the audio issue, with the help of a forum answer. Found a new one though, where the game starts back up after pausing and adds a couple rounds to the counter. That needs to be sorted out.
+
+**Thoughts**: Just putting in the time now. Nearly there.
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
