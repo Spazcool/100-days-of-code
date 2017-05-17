@@ -433,3 +433,12 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+### Day 22: May 17, Wednesday
+
+**Today's Progress**: Spreading that pesticide. Got rid of the biggest nagging bugs and cleaned out 30 lines of BS code. Started to add a bit more polish but, the baby woke up. 
+
+**Thoughts**: Progress made.
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
