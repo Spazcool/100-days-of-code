@@ -442,3 +442,12 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+### Day 23: May 18, Thursday
+
+**Today's Progress**: added a hint div the menu manner
+
+**Thoughts**: Ugh, got stuck playing around with importing styles from jQ. Made far less progress tonight than I otherwise might have. Fuck.
+
+**Link(s) to work**
+1. [Simon on git](https://github.com/Spazcool/simonGame)
