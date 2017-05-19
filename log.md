@@ -451,3 +451,12 @@
 
 **Link(s) to work**
 1. [Simon on git](https://github.com/Spazcool/simonGame)
+
+### Day 24: May 19, Friday
+
+**Today's Progress**: Ran through a couple of GIT tutorials as well as modified Atom styling.
+
+**Thoughts**: its friday, went to the gym, played with my infant son amd drank some wine. No real wprk is happeming tonight.
+
+**Links to work**:
+1. []()
