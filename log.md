@@ -460,3 +460,13 @@
 
 **Links to work**:
 1. []()
+
+### Day 25: May 20, Saturday
+
+**Today's Progress**: Finished simon! Started the revamp of my emailer/behavior tracker, mostly wireframing right now.
+
+**Thoughts**: Wam bam, thank you ma'am.Got my freecodecamp front end certificate. Now on to a couple personal projects and the back end.
+
+**Links to work**:
+1. [Simon](http://www.spazcool.com/simon/)
+2. [Tracker](https://github.com/Spazcool/tracker)
