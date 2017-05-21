@@ -470,3 +470,12 @@
 **Links to work**:
 1. [Simon](http://www.spazcool.com/simon/)
 2. [Tracker](https://github.com/Spazcool/tracker)
+
+### Day 26: May 21, Sunday
+
+**Today's Progress**: Still just mucking about with the basic design of the tracker webapp. 
+
+**Thoughts**: Super tired today with a cranky baby to contend with, got my "time" in but, wasn't able to really focus on the work...even while working.
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
