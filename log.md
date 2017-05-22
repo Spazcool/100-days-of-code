@@ -479,3 +479,14 @@
 
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
+
+
+### Day 27: May 22, Monday
+
+**Today's Progress**: Still just mucking about with the basic design of the tracker webapp. Nearly finished with the rough layout; it'll be this week when I can hit the JS hard. Also, continued watching and following along with some Git basics tuts.
+
+**Thoughts**: Fairly productive today even with a tight schedule.
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
+2. [one of the Git tuts] (https://www.youtube.com/watch?v=WxMFZncm12s&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=4)
