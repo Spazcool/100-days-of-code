@@ -490,3 +490,12 @@
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
 2. [one of the Git tuts] (https://www.youtube.com/watch?v=WxMFZncm12s&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&index=4)
+
+### Day 28: May 23, Tuesday
+
+**Today's Progress**: Started with the JS in earnest today, added a couple of date related functions before moving on to starting a JSON for schedule
+
+**Thoughts**: I should create an input field that adds to a JSON, permanantly.
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
