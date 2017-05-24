@@ -499,3 +499,13 @@
 
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
+
+
+### Day 29: May 24, Wednesday
+
+**Today's Progress**: Not a lot. Banged out a bunch on some git tutorials at work but, ran out of time once I got home. Played around with importing and accessing a JSON file from another JS file but, started to fall asleep while figuring out how I was going to play with the information. 
+
+**Thoughts**: Sleep.
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
