@@ -509,3 +509,13 @@
 
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
+
+### Day 30: May 25, Thursday
+
+**Today's Progress**: Still getting lost in JSON parsing, finally got it running but, there was at least 40 mins lost to figuring it out. The rest of my time I spent on making the JSON info prepend to the screen. Also, spent a solid 2.5 hours at work going through more Git tutorials. Gonna finish one last one, hosted on Udacity before I leave Git alone for a while. 
+
+**Thoughts**: I need to figure out JSON.
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
+2. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
