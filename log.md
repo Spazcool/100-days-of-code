@@ -519,3 +519,13 @@
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
 2. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
+
+
+### Day 31: May 26, FRIDAy
+
+**Today's Progress**: Stuck at work all day and with the baby all night, no real work was possible. Got to continue a bit of the Udacity course.
+
+**Thoughts**: Meh
+
+**Links to work**:
+1. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
