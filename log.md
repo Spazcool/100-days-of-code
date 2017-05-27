@@ -529,3 +529,13 @@
 
 **Links to work**:
 1. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
+
+### Day 32: May 27, Saturday
+
+**Today's Progress**: A bit of the Udacity course, a bit of reading a JS reference manual and a bit of editing on tracker.
+
+**Thoughts**: I would have liked to do more but, too busy today.
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
+2. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
