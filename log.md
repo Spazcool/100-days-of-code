@@ -539,3 +539,13 @@
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
 2. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
+
+### Day 33: May 28, Sunday
+
+**Today's Progress**: Same as yesterday but more of it. A solid 2 hours continuing with the Udacity Git course and another 90 minutes jammin' with functions in my tracker, I got some basic input / output functionality working.
+
+**Thoughts**: Much more needs to be done.
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
+2. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
