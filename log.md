@@ -549,3 +549,12 @@
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
 2. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
+
+### Day 34: May 29, Monday
+
+**Today's Progress**: Cleaned up my json files, making it easier and more logical to filter through them. Also made fair few functions for said filtering. A lot of my time, did get lost in organizing the data, post filter but, it would have been worse without.
+
+**Thoughts**: I should try to break the final returned string up into the individual paragraphs. It won't help a great deal but, it might make it a little easier to read at the start.
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
