@@ -558,3 +558,13 @@
 
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
+
+
+### Day 35: May 29, Tuesday
+
+**Today's Progress**: Finished lesson 3 of Udacity's Git tutorial, took about 2 or 3 hours to do so.
+
+**Thoughts**: The baby was less than kind to my sleep schedule last night, making any creative or thinking-heavy activity something to be avoided, plus I really want to get this course out of the way before getting back to my project, should be done by this weekend.
+
+**Links to work**:
+1. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
