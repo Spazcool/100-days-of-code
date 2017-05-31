@@ -568,3 +568,12 @@
 
 **Links to work**:
 1. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
+
+### Day 36: May 31, Wednesday
+
+**Today's Progress**: Continuing to clean up the data that'll be used later. Less programming really and more reorganizing some written files so that they'll play nice with the program.
+
+**Thoughts**: It's boring ass work but, I can't automate any more of it than I have already. This will take at least another 5 hours to get through, ugh.
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
