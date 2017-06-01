@@ -577,3 +577,12 @@
 
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
+
+### Day 37: June 01, Thursday
+
+**Today's Progress**: Finished Udacity's Git & GitHub tutorial.
+
+**Thoughts**: This was the fourth and final tutorial I'll be taking on git for a while. For the last two weeks I have spent at least a dozen hours reviewing the basics and learning some neat tricks like password caching, aliases and some bash file edits for coloring and styling git in the terminal. I think I'll be able to simply google individual problems now, without being overwhelmed by all the interrelated parts.
+
+**Links to work**:
+1. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
