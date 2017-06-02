@@ -586,3 +586,12 @@
 
 **Links to work**:
 1. [Udacity Git course] (https://classroom.udacity.com/courses/ud775)
+
+### Day 38: June 02, Friday
+
+**Today's Progress**: Continuing to clean up the data that'll be used later. Nothing but organizing my JSON files.
+
+**Thoughts**: So boring. I'm gonna cap each description type to just 10 entries for now. That's still gonna take another few hours to get through but, it'll get me back to proper programming more quickly.            
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
