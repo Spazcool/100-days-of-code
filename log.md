@@ -595,3 +595,12 @@
 
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
+
+### Day 39: June 03, Saturday
+
+**Today's Progress**: Continuing to clean up the data that'll be used later. Nothing but organizing my JSON files.
+
+**Thoughts**: I'm going to abandon this project. While scrubbing the data I calculated how many words I would need to have enough for a random selection of paragraphs related to the performance of the student. It was in excess of 160,000 words. That's a couple of novels in length. Even just focusing on the "bell" in the data would require 30,000 words. And, every 100 or so would be broken up to form a new paragraph that says about the same thing as the last; it would be writing a novel that only says one thing 3,000 times. With that said, I will branch this project and see what I can do with it as a end of year report randomizer, maybe as a chrome plugin. We'll see.               
+
+**Links to work**:
+1. [Tracker](https://github.com/Spazcool/tracker)
