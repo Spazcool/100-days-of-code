@@ -604,3 +604,12 @@
 
 **Links to work**:
 1. [Tracker](https://github.com/Spazcool/tracker)
+
+### Day 40: June 04, Sunday
+
+**Today's Progress**: Read through the first You Don't Know JavaScript book and finished the exercise at the end. 
+
+**Thoughts**: I haven't read much of this series and already it's feeling a bit theoretical for where I stand with JS. I'd prefer something that have a chapter on a topic and then have you puzzle out a problem related to said topic. Perhaps this series will get there if I give it a chance. I just want to code.             
+
+**Links to work**:
+1. [simple exercises](https://github.com/Spazcool/p1xt-guides/tree/master/exercises)
