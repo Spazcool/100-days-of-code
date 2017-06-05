@@ -613,3 +613,12 @@
 
 **Links to work**:
 1. [simple exercises](https://github.com/Spazcool/p1xt-guides/tree/master/exercises)
+
+### Day 41: June 05, Monday
+
+**Today's Progress**: Read a bit more of YDKJS, learing about clousures and scope. On top of that, I've been playing around with vue.js for the past couple of hours making little methods that interact with my html.
+
+**Thoughts**: Too much to learn.            
+
+**Links to work**:
+1. [me playing with Vue.js](https://github.com/Spazcool/vuePlayground)
