@@ -622,3 +622,14 @@
 
 **Links to work**:
 1. [me playing with Vue.js](https://github.com/Spazcool/vuePlayground)
+
+
+### Day 42: June 06, Tuesday
+
+**Today's Progress**: Read more of YDKJS, finishing chap 3 of Scope and Closures. Spent most of my time, however, running through more vue.js tuts. Made a mini-reddit and some auto-editing divs. 
+
+**Thoughts**: Very confused. I feel like vue is a really powerful tool that might be too much for something that I'd be able to make. Still, I need to learn it and it does seem pretty cool.          
+
+**Links to work**:
+1. [me playing with Vue.js](https://github.com/Spazcool/vuePlayground)
+2. [You Don't Know JS notes and exercises] (https://github.com/Spazcool/p1xt-guides)
