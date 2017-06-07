@@ -633,3 +633,13 @@
 **Links to work**:
 1. [me playing with Vue.js](https://github.com/Spazcool/vuePlayground)
 2. [You Don't Know JS notes and exercises] (https://github.com/Spazcool/p1xt-guides)
+
+
+### Day 43: June 07, Wednesday
+
+**Today's Progress**: Read more of YDKJS, finishing chap 4 & 5 of Scope and Closures. 
+
+**Thoughts**: I definitely feel that I have a better understanding of scope and also how that relates to the engine processing the code before runtime. However, closures still seem weird and ill-defined to me.        
+
+**Links to work**:
+1.  [You Don't Know JS notes and exercises] (https://github.com/Spazcool/p1xt-guides)
