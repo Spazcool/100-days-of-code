@@ -643,3 +643,12 @@
 
 **Links to work**:
 1.  [You Don't Know JS notes and exercises] (https://github.com/Spazcool/p1xt-guides)
+
+### Day 44: June 08, Thursday
+
+**Today's Progress**: Guys at the Bunker convinced me to give React another try, spent a couple of hours going through the official React tutorial, creating a tic-tac-toe game. 
+
+**Thoughts**: I don't think I know the basics of the language nor more advanced architectuarl concepts well enough to really get a hang of this stuff at this time. I'm gonna follow one more tutorial today, hoping to at least get familiar with the basic input/output of React, if not 100% confident on creating something with it.    
+
+**Links to work**:
+1.  [React Tutorial] (https://facebook.github.io/react/tutorial/tutorial.html)
