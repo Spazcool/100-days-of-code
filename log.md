@@ -652,3 +652,12 @@
 
 **Links to work**:
 1.  [React Tutorial] (https://facebook.github.io/react/tutorial/tutorial.html)
+
+### Day 44: June 08, Thursday
+
+**Today's Progress**: Got about half way through the Lynda.com introduction to React tutorial. 
+
+**Thoughts**: Still not really getting it.    
+
+**Links to work**:
+1.  [React playground](https://github.com/Spazcool/reactPlayground) 
