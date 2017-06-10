@@ -661,3 +661,12 @@
 
 **Links to work**:
 1.  [React playground](https://github.com/Spazcool/reactPlayground) 
+
+### Day 46: June 010, Saturday
+
+**Today's Progress**: Pushed through another 30% of the Lynda.com course, got the notepads and the board working but, still need to add some functionality to it.
+
+**Thoughts**: Still have the training wheels, need to create something of my own.    
+
+**Links to work**:
+1.  [React playground](https://github.com/Spazcool/reactPlayground) 
