@@ -670,3 +670,12 @@
 
 **Links to work**:
 1.  [React playground](https://github.com/Spazcool/reactPlayground) 
+
+### Day 47: June 11, Sunday
+
+**Today's Progress**: Tweaked some functions for styling purposes in the Lynda.com React course.
+
+**Thoughts**: Exhausted today.  
+
+**Links to work**:
+1.  [React playground](https://github.com/Spazcool/reactPlayground) 
