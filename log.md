@@ -679,3 +679,21 @@
 
 **Links to work**:
 1.  [React playground](https://github.com/Spazcool/reactPlayground) 
+
+### Day 48: June 12, Monday
+
+**Today's Progress**: 3 hours staring at the WeChat app source code.
+
+**Thoughts**: I understand nothing.  
+
+**Links to work**:
+1.  private repo
+
+### Day 49: June 13, Tuesday
+
+**Today's Progress**: Finished the bulletin board app for Lynda.com, got stuch with some errors on npm.
+
+**Thoughts**: Oy.
+
+**Links to work**:
+1.  [React playground](https://github.com/Spazcool/reactPlayground) 
