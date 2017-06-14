@@ -697,3 +697,13 @@
 
 **Links to work**:
 1.  [React playground](https://github.com/Spazcool/reactPlayground) 
+
+### Day 50: June 14, Wednesday
+
+**Today's Progress**: Fixed the admitedly minor npm error for the React bulletin board app. Also read the first two chaps in This & Object Prototypes YDKJS. 
+
+**Thoughts**: I don't have the faintest grasp of what is going on with "this", every example given in the book is one where I could just as easily write without using "this". So, I don't know how or why I'd use it.
+
+**Links to work**:
+1.  [You Don't Know JS notes and exercises] (https://github.com/Spazcool/p1xt-guides)
+
