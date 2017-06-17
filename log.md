@@ -707,12 +707,20 @@
 **Links to work**:
 1.  [You Don't Know JS notes and exercises] (https://github.com/Spazcool/p1xt-guides)
 
-
 ### Day 51: June 15, Thursday
 
 **Today's Progress**: Read some more of This & Object Prototypes in YDKJS. 
 
 **Thoughts**: "this" remains a mystery to me, fuck it for now.
+
+**Links to work**:
+1.  [You Don't Know JS notes and exercises] (https://github.com/Spazcool/p1xt-guides)
+
+### Day 52: June 16, Friday
+
+**Today's Progress**: Read some more of This & Object Prototypes in YDKJS. Spent at least 2 hours on it. 
+
+**Thoughts**: The material being covered in the past few chapters have been consistently confusing fo me, to the point that I'm wasting my time; an hour spent with a book in front of me is not necisarily an hour spent learning/understanding. I'm going to take a step back and work on other material that is more fruitful for me at this time; either freeCodeCamp's backend stuff or maybe EdX's CS50 course.  
 
 **Links to work**:
 1.  [You Don't Know JS notes and exercises] (https://github.com/Spazcool/p1xt-guides)
