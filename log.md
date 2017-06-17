@@ -724,3 +724,12 @@
 
 **Links to work**:
 1.  [You Don't Know JS notes and exercises] (https://github.com/Spazcool/p1xt-guides)
+
+### Day 53: June 17, Saturday
+
+**Today's Progress**: Started freeCodeCamp's backend course, played around with npm for 3+ hours.
+
+**Thoughts**: Some of this is intuitive but, I'm ending the night stuck on one bit that refuses to play nice.
+
+**Links to work**:
+1.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
