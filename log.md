@@ -733,3 +733,12 @@
 
 **Links to work**:
 1.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
+
+### Day 54: June 18, Sunday
+
+**Today's Progress**: Busy day. Got started on EdX's MEAN stack course.
+
+**Thoughts**: Got severly stuck on the "start a node.js server" challenge on freeCodeCamp, I was just copying and pasting my way to a solution with no real understanding of what I was doing. So, I started another "short" course that is to be better parsed than fCC with more explanations. 
+
+**Links to work**:
+1.  [MEAN stack EdX course] (https://courses.edx.org/courses/course-v1:MongoDBx+M101x+2T2016/courseware/4cf555e7a26d4fbb87503adf07ef03ce/4f0c609a29a842029b0ac2ffee7d8f5b/?child=first)
