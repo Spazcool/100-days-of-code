@@ -742,3 +742,13 @@
 
 **Links to work**:
 1.  [MEAN stack EdX course] (https://courses.edx.org/courses/course-v1:MongoDBx+M101x+2T2016/courseware/4cf555e7a26d4fbb87503adf07ef03ce/4f0c609a29a842029b0ac2ffee7d8f5b/?child=first)
+
+### Day 55: June 19, Monday
+
+**Today's Progress**: Played with a bit of EdX's MEAN stack course and freeCodeCamp's "start a node.js server".
+
+**Thoughts**: Still getting lost on all of the required pieces. I'm jumping from creating a single page website, requiring three documents and perhaps a half-dozen linked libraries to theses npm libraries that use syntax that is so simplified as to have obscured their inner-workings. 
+
+**Links to work**:
+1.  [MEAN stack EdX course] (https://courses.edx.org/courses/course-v1:MongoDBx+M101x+2T2016/courseware/4cf555e7a26d4fbb87503adf07ef03ce/4f0c609a29a842029b0ac2ffee7d8f5b/?child=first)
+2.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
