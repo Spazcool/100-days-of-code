@@ -752,3 +752,12 @@
 **Links to work**:
 1.  [MEAN stack EdX course] (https://courses.edx.org/courses/course-v1:MongoDBx+M101x+2T2016/courseware/4cf555e7a26d4fbb87503adf07ef03ce/4f0c609a29a842029b0ac2ffee7d8f5b/?child=first)
 2.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
+
+### Day 56: June 20, Tuesday
+
+**Today's Progress**: Continued plugging away at fCC's npm "learnyounode" task.
+
+**Thoughts**: It went better today, I was able to apply some language skills to the problems. I'm still avoiding callbacks however...
+
+**Links to work**:
+1.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
