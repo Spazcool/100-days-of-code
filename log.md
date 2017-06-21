@@ -761,3 +761,12 @@
 
 **Links to work**:
 1.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
+
+### Day 57: June 21, Wednesday
+
+**Today's Progress**: Finised "learnyounode".
+
+**Thoughts**: I'm still lacking quite a bit. I'd spend an hour on each step, hacking my way to something that failed but, when compared to the solution came to 90%. I'm just gonna steamroll ahead, hopefully I'll get it through repitition. 
+
+**Links to work**:
+1.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
