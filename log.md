@@ -770,3 +770,12 @@
 
 **Links to work**:
 1.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
+
+### Day 58: June 22, Thursday
+
+**Today's Progress**: Started and finished "expressworks" tutorial.
+
+**Thoughts**: I remain fairly disheartened here. Anyone can copy paste their way through this but, to create one needs to understand their tools. I do not at the moment.         
+
+**Links to work**:
+1.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
