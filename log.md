@@ -779,3 +779,12 @@
 
 **Links to work**:
 1.  [NPM playground] (https://github.com/Spazcool/npmPlayground)
+
+### Day 59: June 23, Friday
+
+**Today's Progress**: Attepmted to start "learnyoumongo", got stuck in a 5 hour error shitshow.
+
+**Thoughts**: Fuck this. I uninstalled and reinstalled mongo a half dozen times, trying different directories and tutorials. Still not working locally. Just gonna get through it on cloud 9, which may mean no proof to be posted here. 
+
+**Links to work**:
+1.  Nope      
