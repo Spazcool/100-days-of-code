@@ -788,3 +788,30 @@
 
 **Links to work**:
 1.  Nope      
+
+### Day 60: June 24, Saturday
+
+**Today's Progress**: A lot of reading up on React as I revisited the official Facebook tutorial on it. Following that I started the Basic React Course on Egghead.io
+
+**Thoughts**: Small gains made but, still not there.
+
+**Links to work**:
+1.  [Egghead account](https://egghead.io/users/207214) 
+
+### Day 60: June 25, Sunday
+
+**Today's Progress**: Nope.
+
+**Thoughts**: Needed a day of rest, spent it chilling with wife and child.
+
+**Links to work**:
+1.  Nope 
+
+### Day 61: June 26, Monday
+
+**Today's Progress**: Completed the Egghead React Basics course.
+
+**Thoughts**: I need a practical to go through, to test my understanding.
+
+**Links to work**:
+1.  [Egghead account](https://egghead.io/users/207214)
