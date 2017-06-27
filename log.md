@@ -815,3 +815,13 @@
 
 **Links to work**:
 1.  [Egghead account](https://egghead.io/users/207214)
+
+
+### Day 62: June 27, Tuesday
+
+**Today's Progress**: Nothing.
+
+**Thoughts**: Fuck! Another day lost trying and failing to get MongoDB up and running. This time I'm stuck both on my local machine and on c9's server. This is annoying and a waste of my time. 
+
+**Links to work**:
+1.  no
