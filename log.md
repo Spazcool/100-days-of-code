@@ -825,3 +825,12 @@
 
 **Links to work**:
 1.  no
+
+### Day 63: June 28, Wednesday
+
+**Today's Progress**: Completed the first challenge for the M001: MongoDB Basics course on MongoDB University's site.
+
+**Thoughts**: Things are actually working as planned and its paced in such a way that I can follow along without getting tripped up by the terminology. Nice.
+
+**Links to work**:
+1.  [My M001 Progress](https://university.mongodb.com/courses/MongoDB/M001/2017_June/progress)
