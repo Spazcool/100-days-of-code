@@ -834,3 +834,12 @@
 
 **Links to work**:
 1.  [My M001 Progress](https://university.mongodb.com/courses/MongoDB/M001/2017_June/progress)
+
+### Day 64: June 29, Thursday
+
+**Today's Progress**: Started another React tutorial, trying to bang my head against enough of these till some understanding emerges.
+
+**Thoughts**: 
+
+**Links to work**:
+1.  [React Training](https://online.reacttraining.com/courses/50507/lectures/762538)
