@@ -843,3 +843,12 @@
 
 **Links to work**:
 1.  [React Training](https://online.reacttraining.com/courses/50507/lectures/762538)
+
+### Day 65: June 30, Friday
+
+**Today's Progress**: No real work done today. Did get to read a bit of "You Don't Know JS" on the metro but, my fingers didnt get a chance to translate that into code.
+
+**Thoughts**: It was a long day, there's always tomorrow.
+
+**Links to work**:
+1.  Nope
