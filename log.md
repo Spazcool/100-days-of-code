@@ -852,3 +852,12 @@
 
 **Links to work**:
 1.  Nope
+
+### Day 66: July 01, Saturday
+
+**Today's Progress**: Continued plucking away at React Training. 
+
+**Thoughts**: This one is definitely better suited for me. The tutor is going through all of the unknowns and really describing their needs and uses.
+
+**Links to work**:
+1.  [React Training](https://online.reacttraining.com/courses/50507/lectures/762538)
