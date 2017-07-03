@@ -861,3 +861,21 @@
 
 **Links to work**:
 1.  [React Training](https://online.reacttraining.com/courses/50507/lectures/762538)
+
+### Day 67: July 02, Sunday
+
+**Today's Progress**: Read a bit of "You Don't Know JS", listened to "Code Newbie". 
+
+**Thoughts**: International, 12-hour flight, with a baby. No time to code.
+
+**Links to work**:
+1.  Nope.
+
+### Day 68: July 03, Monday
+
+**Today's Progress**: Continued plucking away at React Training. 
+
+**Thoughts**: Jetlag slowed me down but, still got a bit of time in.
+
+**Links to work**:
+1.  [React Training](https://online.reacttraining.com/courses/50507/lectures/762538)
