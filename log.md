@@ -879,3 +879,21 @@
 
 **Links to work**:
 1.  [React Training](https://online.reacttraining.com/courses/50507/lectures/762538)
+
+### Day 69: July 04, Tuesday
+
+**Today's Progress**: Continued plucking away at React Training. Got a solid hour or two in.
+
+**Thoughts**: Wish I had more time but, busy with the family.
+
+**Links to work**:
+1.  [React Training](https://online.reacttraining.com/courses/50507/lectures/762538)
+
+### Day 70: July 05, Wednesday
+
+**Today's Progress**: Continued the MongoDB course today. 
+
+**Thoughts**: Fell asleep during one of the videos, woke up three hours later. Ugh. Learning the basics of the UI is a bit boring. I know I need it to be able to actually run anything but, damn.  
+
+**Links to work**:
+1.  [My M001 Progress](https://university.mongodb.com/courses/MongoDB/M001/2017_June/progress)
